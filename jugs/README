@@ -1,0 +1,11 @@
+
+proof - jugs example
+
+3 gallon jug
+5 gallon jug
+
+measure out 4 gallons exactly
+
+before trying to prove it , lets see if we
+can code up a solution in scheme
+
